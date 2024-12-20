@@ -1,0 +1,22 @@
+body{
+    font-family: "Lexend, consolas";
+    font-size: large;
+    background-color: gray;
+    color: hotpink;
+}
+h1{
+    font-size: 40px;
+}
+hr{
+    height: 2px;
+    background-color: white;
+}
+p, li{
+    color: lime;
+}
+a{
+    color: hotpink;
+}
+a:visited{
+    color: darkmagenta;
+}
